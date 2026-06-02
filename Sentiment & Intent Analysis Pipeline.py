@@ -33,7 +33,7 @@ data = {
         # Negative + Complaint intent
         "This is terrible I want a refund immediately",
         "Worst experience ever please refund my money",
-        "Very disappointed I need to return this product",
+        "Very disappointed I need to return this product", 
         "Horrible service I want compensation",
         "This product broke I need a replacement",
         "Completely broken I demand a refund now",
